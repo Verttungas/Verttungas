@@ -1,28 +1,36 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=110&section=header" width="100%"/>
+
+<div align="center">
+
 # Carlos Vertti
 
-Software Engineer building production systems that reduce manual work, improve data visibility, and make operations faster and more reliable.
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%F0%9F%9A%80;Backend+Systems+%26+APIs;AI+%26+Security+Automation;Building+tools+that+actually+work" alt="Typing SVG"/></a>
 
-- Systems & IT Engineering @ Universidad Anáhuac México Norte  
-- Expected graduation: Feb 2027  
-- Minor in Strategic Intelligence  
-- Based in Mexico City  
+Systems & IT Engineering · Universidad Anáhuac México Norte · Expected Feb 2027  
+Minor in Strategic Intelligence · Based in Mexico City
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://verttungas.github.io/online-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/carlos-vertti)
+[![Resume](https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://verttungas.github.io/online-portfolio/assets/files/Carlos_Ortiz_Perez_Vertti_Resume.pdf)
+
+</div>
 
 ---
 
 ## Impact
 
 - Built a full-stack KPI platform (Flask, PostgreSQL, Docker) deployed across 47+ locations  
-  → Reduced reporting time by 95% (16–20 hrs → ~45 min)  
+  → Reduced reporting time by **95%** (16–20 hrs → ~45 min)  
   → Enabled real-time BI through Power BI Direct Query  
 
-- Developed a Python automation system processing 1,000+ reports monthly  
-  → Saved 400+ hours annually  
-  → Achieved 99.9% data accuracy  
+- Developed a Python automation system processing **1,000+ reports** monthly  
+  → Saved **400+ hours** annually  
+  → Achieved **99.9%** data accuracy  
 
 - Built an AI-assisted incident triage system (AWS S3 + Gemini API)  
-  → Processes 60+ daily security incidents  
+  → Processes **60+ daily** security incidents  
   → Reduced response time from days to hours  
-  → Increased team capacity 4x  
+  → Increased team capacity **4x**  
 
 ---
 
@@ -38,20 +46,21 @@ Software Engineer building production systems that reduce manual work, improve d
 
 ## Tech Stack
 
-**Languages**  
-Python · Go · C++ · JavaScript · PHP  
+<div align="center">
 
-**Backend & Frameworks**  
-Flask · Django · REST APIs  
+**Languages**
 
-**Data & Databases**  
-PostgreSQL · SQL · MongoDB · Pandas  
+[![My Skills](https://skillicons.dev/icons?i=python,go,cpp,js,php&theme=dark)](https://skillicons.dev)
 
-**Cloud & Infrastructure**  
-AWS (EC2, S3, IAM) · Docker · Linux (Ubuntu/RHEL) · Google Cloud  
+**Backend & Cloud**
 
-**Automation & AI**  
-n8n · Google Apps Script · Gemini API · GitHub Copilot  
+[![My Skills](https://skillicons.dev/icons?i=flask,django,fastapi,aws,gcp,docker,linux,postgres,mongodb&theme=dark)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -77,16 +86,23 @@ Desktop application for large-scale report processing.
 
 ---
 
-## Links
+## GitHub Stats
 
-- Portfolio: https://verttungas.github.io/online-portfolio/  
-- LinkedIn: https://www.linkedin.com/in/carlos-vertti  
-- Resume: https://verttungas.github.io/online-portfolio/assets/files/Carlos_Ortiz_Perez_Vertti_Resume.pdf  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Verttungas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verttungas&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Verttungas&theme=github-dark-blue&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
 ## Focus
 
-I’m particularly interested in building systems at the intersection of software engineering and security — especially automation for risk, compliance, and large-scale operational workflows.
+I'm particularly interested in building systems at the intersection of software engineering and security — especially automation for risk, compliance, and large-scale operational workflows.
 
-I’m actively looking for opportunities where I can contribute to building scalable systems that solve real-world problems.
+I'm actively looking for opportunities where I can contribute to building scalable systems that solve real-world problems.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
